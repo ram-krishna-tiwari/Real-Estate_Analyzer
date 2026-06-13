@@ -182,16 +182,7 @@ city=Bengaluru&location=Whitefield&total_sqft=1200&bhk=3&bath=2
 
 ---
 
-## Future Improvements
 
-- [ ] Add more cities (Hyderabad, Pune, Kolkata)
-- [ ] Replace hardcoded credentials with a proper user database
-- [ ] Add interactive charts for price trends by location
-- [ ] Containerize with Docker for easy deployment
-- [ ] Deploy to cloud (AWS / Render / Heroku)
-- [ ] Improve model accuracy with XGBoost or ensemble methods
-
----
 
 ## Author
 
@@ -200,6 +191,3 @@ city=Bengaluru&location=Whitefield&total_sqft=1200&bhk=3&bath=2
 
 ---
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
